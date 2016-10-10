@@ -1,4 +1,4 @@
-Rspec.configure do |config|
+RSpec.configure do |config|
   config.use_transactional_fixtures = false
 
   config.before(:suite) do

@@ -27,7 +27,15 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
+gem 'slim-rails'
+gem 'ransack'
+gem 'bootstrap-sass'
+gem 'active_shipping'
+gem 'activemerchant'
+gem 'friendly_id', '~> 5.2.0.beta.1'
+gem 'paperclip'
+gem 'will_paginate', github: 'jonatack/will_paginate'
+gem 'will_paginate-bootstrap'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
